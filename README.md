@@ -22,6 +22,6 @@ Haxis Mod is a Magisk module with a kernel profile manager that uses the Spectru
 
 ## Support
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](LINK_GIT)
+[![Github Badge](https://img.ibxk.com.br/2021/02/22/22170349520295.jpg?w=1120&h=420&mode=crop&scale=both)
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( LINK_LINKEDIN)
